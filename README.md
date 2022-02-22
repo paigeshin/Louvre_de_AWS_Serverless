@@ -1,5 +1,3 @@
-# Louvre_de_CDK_Lambda
-
 # CDK Templates
 
 [https://github.com/barosanuemailtest/space-finder-backend](https://github.com/barosanuemailtest/space-finder-backend)
