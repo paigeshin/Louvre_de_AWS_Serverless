@@ -1,4 +1,27 @@
-# CDK Templates
+# Cognito
+
+[Node.js를 통하여 Cognito User Pool 인증받기](https://m.blog.naver.com/oksk0302/220986019426)
+
+[How to setup aws cognito authentication with serverless-and-node.js](https://www.freecodecamp.org/news/aws-cognito-authentication-with-serverless-and-nodejs/amp/)
+
+[How to refresh the idtoken using refresehtoken value in aws cognito](https://stackoverflow.com/questions/44107689/how-to-refresh-the-idtoken-using-refreshtoken-value-in-aws-cognito)
+
+[Sample Code - how to refresh session of Cognito User Pool](https://gist.github.com/kndt84/5be8e86a15468ed1c8fc3699429003ad)
+
+[Sample Code - How to refresh session of Cognito User Pool](https://gist.github.com/paigeshin/92a35fc39eac28b816013114dea554f9)
+
+[How to get Cognito identityId in AWS Lambda Functions](https://bobbyhadz.com/blog/aws-cognito-identity-id-lambda)
+
+[User Authentication signup login on aws with lambda cognito or iam](https://stackoverflow.com/questions/34858559/user-authentication-signup-login-on-aws-with-lambda-cognito-or-iam)
+
+[aws-cognito-amplify vs amazon-cognito identity-js vs aws-sdk](https://www.maxivanov.io/aws-cognito-amplify-vs-amazon-cognito-identity-js-vs-aws-sdk/)
+
+[Cognito User Pool how to refresh access token using refresh token](https://stackoverflow.com/questions/37442973/cognito-user-pool-how-to-refresh-access-token-using-refresh-token)
+
+
+# CDK
+
+## CDK Templates
 
 [https://github.com/barosanuemailtest/space-finder-backend](https://github.com/barosanuemailtest/space-finder-backend)
 
@@ -9,17 +32,17 @@
 [My Backend](https://github.com/paigeshin/cloudkit-template-space-finder-backend)
 
 
-# CDK Add Path Parameter
+## CDK Add Path Parameter
 
 [https://bobbyhadz.com/blog/aws-cdk-api-gateway-example](https://bobbyhadz.com/blog/aws-cdk-api-gateway-example)
 
-# CDK Delete Entire Deployment
+## CDK Delete Entire Deployment
 
 ```bash
 npx cdk destroy
 ```
 
-# CDK Index
+## CDK Index
 
 1. Part 1: Set-up:
     1. NodeJS, TS, VSCode
