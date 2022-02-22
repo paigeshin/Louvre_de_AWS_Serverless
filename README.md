@@ -1,3 +1,7 @@
+# Cost Insight
+
+![serverless cost](./serverless_cost.png)
+
 # Cognito
 
 [Node.js를 통하여 Cognito User Pool 인증받기](https://m.blog.naver.com/oksk0302/220986019426)
@@ -18,7 +22,6 @@
 
 [Cognito User Pool how to refresh access token using refresh token](https://stackoverflow.com/questions/37442973/cognito-user-pool-how-to-refresh-access-token-using-refresh-token)
 
-
 # CDK
 
 ## CDK Templates
@@ -30,7 +33,6 @@
 [My Frontend](https://github.com/paigeshin/cloudkit-template-space-finder-frontend)
 
 [My Backend](https://github.com/paigeshin/cloudkit-template-space-finder-backend)
-
 
 ## CDK Add Path Parameter
 
@@ -45,13 +47,13 @@ npx cdk destroy
 ## CDK Index
 
 1. Part 1: Set-up:
-    1. NodeJS, TS, VSCode
-    2. Setup AWS account cli access
+   1. NodeJS, TS, VSCode
+   2. Setup AWS account cli access
 2. AWS CDK and CloudFormation
 3. Serverless stack: Lambda, APIGateway, DynamodB - all with CDK
 4. Lambdas: Bundling, Testing, Debugging
 5. Extended Part about DynamoDB - all with CDK
-6. AWS Cognito - console and CDK  
+6. AWS Cognito - console and CDK
 
 ## CDK AWS Basic
 
@@ -145,7 +147,7 @@ npx cdk destroy
 
 [How user pools work?](https://www.notion.so/How-user-pools-work-d074652a66554b8eb4dfb4769cad9483)
 
-[Setup Identity Pool Manually](https://www.udemy.com/course/aws-typescript-cdk-serverless-react/learn/lecture/27148548#overview) ⇒ Fine grained control, SNS Login 
+[Setup Identity Pool Manually](https://www.udemy.com/course/aws-typescript-cdk-serverless-react/learn/lecture/27148548#overview) ⇒ Fine grained control, SNS Login
 
 [Write Test Code for Identity Pool](https://www.notion.so/Write-Test-Code-for-Identity-Pool-f3c90fff244a4a37a9ef8f4fe631ffb4)
 
