@@ -1,6 +1,6 @@
 # Louvre_de_CDK_Lambda
 
-# Templates
+# CDK Templates
 
 [https://github.com/barosanuemailtest/space-finder-backend](https://github.com/barosanuemailtest/space-finder-backend)
 
@@ -11,17 +11,17 @@
 [My Backend](https://github.com/paigeshin/cloudkit-template-space-finder-backend)
 
 
-# Add Path Parameter
+# CDK Add Path Parameter
 
 [https://bobbyhadz.com/blog/aws-cdk-api-gateway-example](https://bobbyhadz.com/blog/aws-cdk-api-gateway-example)
 
-# Delete Entire Deployment
+# CDK Delete Entire Deployment
 
 ```bash
 npx cdk destroy
 ```
 
-# Index
+# CDK Index
 
 1. Part 1: Set-up:
     1. NodeJS, TS, VSCode
@@ -32,13 +32,13 @@ npx cdk destroy
 5. Extended Part about DynamoDB - all with CDK
 6. AWS Cognito - console and CDK  
 
-# AWS Basic
+## CDK AWS Basic
 
 [Setup IAM user for console ](https://www.notion.so/Setup-IAM-user-for-console-890b27a78f9e4804857e0e37ccc7e627)
 
 [AWS CLI Setup ](https://www.notion.so/AWS-CLI-Setup-967d1bc55d0f41caac1ff97fe31a79e4)
 
-# CDK Basic
+## CDK Basic
 
 [What is CDK?](https://www.notion.so/What-is-CDK-4e2bcbf1605f4be4a6d8395d68b68512)
 
@@ -56,7 +56,7 @@ npx cdk destroy
 
 [CDK Deployment parameters](https://www.notion.so/CDK-Deployment-parameters-0cfc2b8f95c149f8a62bc4896f4c0d42)
 
-# CDK and Typescript
+## CDK and Typescript
 
 [Serverless Project, initialize ](https://www.notion.so/Serverless-Project-initialize-3bc44abc7f8c407fb9eb9d662e708182)
 
@@ -68,7 +68,7 @@ npx cdk destroy
 
 [DynamoDB ](https://www.notion.so/DynamoDB-e3d8f72c6ee94fcf99116ed840e79985)
 
-# Bundling, Testing and Debugging
+## CDK Bundling, Testing and Debugging
 
 [Lambda Bundling Problem](https://www.notion.so/Lambda-Bundling-Problem-d412478058e647d3a5e08ad38b1c9f61)
 
@@ -78,7 +78,7 @@ npx cdk destroy
 
 [Webpack Deployment](https://www.notion.so/Webpack-Deployment-10794d0230414667b694a4b387a70f8c)
 
-# Testing and Debugging Lambdas
+## CDK Testing and Debugging Lambdas
 
 [integrate aws-sdk](https://www.notion.so/integrate-aws-sdk-759058b821d24c908b5ed2c6aeb6d9d0)
 
@@ -86,7 +86,7 @@ npx cdk destroy
 
 [Debugging AWS actions with vsCode](https://www.notion.so/Debugging-AWS-actions-with-vsCode-8b04146a6af141a3b0b2e3f43a3e2335)
 
-# DynamoDB
+## CDK DynamoDB
 
 [Dynamo DB Sample Function](https://www.notion.so/Dynamo-DB-Sample-Function-aba6c77c47154b8bb3a1411cdd41dbdc)
 
@@ -102,7 +102,7 @@ npx cdk destroy
 
 [CRUD Refactors](https://www.notion.so/CRUD-Refactors-3baf9162d81b4f61a2a41a60455e68df)
 
-# Cognito
+## CDK Cognito
 
 [Understanding AWS Cognito](https://www.notion.so/Understanding-AWS-Cognito-562a274165f648d4bb93d8557e63c4ef)
 
@@ -120,7 +120,7 @@ npx cdk destroy
 
 [CDK add group for authorizer and validate ](https://www.notion.so/CDK-add-group-for-authorizer-and-validate-89e14c8b649f4874b3aba39fbac44cae)
 
-# Identity Pools
+## CDK Identity Pools
 
 [How user pools work?](https://www.notion.so/How-user-pools-work-d074652a66554b8eb4dfb4769cad9483)
 
@@ -130,23 +130,23 @@ npx cdk destroy
 
 [Identity pools in CDK](https://www.notion.so/Identity-pools-in-CDK-e350c8b2da924efba7120150adfe308a)
 
-# Bucket
+## CDK Bucket
 
 [CDK initialize Bucket](https://www.notion.so/CDK-initialize-Bucket-abca04c364e442f394e28d0c8aef978f)
 
 [CDK initialize Bucket and add policies](https://www.notion.so/CDK-initialize-Bucket-and-add-policies-fa4b92c7c606410ebec99330411ae7ec)
 
-# Lambda Cors Handling
+## CDK Lambda Cors Handling
 
 [Cors Handling ](https://www.notion.so/Cors-Handling-16d805cdd2cb406c9851d685f6d49454)
 
-# Web App Deployment
+## CDK Web App Deployment
 
 [WebApp Deployment](https://www.notion.so/WebApp-Deployment-8daea8edbe9741e09ee1823e7d289bca)
 
 ---
 
-# React
+## CDK React
 
 [initialize typescript project](https://www.notion.so/initialize-typescript-project-e21c28d89cec4ebcbe289ea15429cb44)
 
